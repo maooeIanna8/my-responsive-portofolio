@@ -8,7 +8,7 @@ Home - Works - My Services - Skills - Contact me
 
 ========== HOME SECTION ==========
 ✅.home__subtitle
-Hi! I'm Maooelanna - Based on Peru
+Hi! I'm Maooelanna - Based on United States
 
 ✅.home__title
 Creative Designer & <br>
