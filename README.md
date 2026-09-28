@@ -1,4 +1,4 @@
-# Responsive Portfolio Website Maooelanna
+# Website Portofolio Responsive Maoelana`s
 
 This project is part of a step-by-step in which we build a responsive portfolio website Maoelana`s from scratch using HTML, CSS and JavaScript.
 
