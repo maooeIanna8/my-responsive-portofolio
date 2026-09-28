@@ -1,10 +1,6 @@
-# Responsive Portfolio Website Bianca
+# Responsive Portfolio Website Maooelanna
 
 This project is part of a step-by-step YouTube tutorial in which we build a responsive portfolio website Bianca from scratch using HTML, CSS and JavaScript.
-
-## 🎬 [Watch the Demo & Code](https://youtu.be/JSFIGIA9Zrk) 
-
-![preview img](/preview.png) 
 
 ## 📌 Project Features
 - Fully responsive portfolio website Bianca (Mobile First Methodology).
@@ -24,7 +20,5 @@ You can **clone** the repository to your local machine or **fork** it in your Gi
 
 ```bash
 # Clone the repository using HTTPS
-git clone https://github.com/bedimcode/responsive-porfolio-website-Bianca.git
+git clone https://github.com/maooeIanna8/my-responsive-portofolio.git
 ```
-
-Designed & developed with ❤️ by **[Bedimcode](https://www.youtube.com/@Bedimcode)** 
