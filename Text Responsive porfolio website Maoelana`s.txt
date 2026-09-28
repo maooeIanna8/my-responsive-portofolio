@@ -1,6 +1,6 @@
 ========== HEADER & NAV ==========
 ✅.nav__logo
-Bianca
+Infinity
 
 ✅.nav__link
 Home - Works - My Services - Skills - Contact me
@@ -8,7 +8,7 @@ Home - Works - My Services - Skills - Contact me
 
 ========== HOME SECTION ==========
 ✅.home__subtitle
-Hi! I'm Bianca - Based on Peru
+Hi! I'm Maooelanna - Based on Peru
 
 ✅.home__title
 Creative Designer & <br>
@@ -90,6 +90,7 @@ Website Developer
 Backend Developer
 Web Designer
 SEO Specialist
+Cyber Security Analyst
 
 ✅.services__description
 The service I offer to companies and clients involves working 
@@ -130,7 +131,7 @@ Frontend
   CSS
   JavaScript
   React
-  Sass
+  Python
   Git
   GitHub
 
@@ -166,10 +167,10 @@ high-quality project. He is always in contact and active regarding
 time, Good work.”
 
 ✅.testimonials__name
-Sara The
-Elemar Rice
-Rita Treds
-Augus Drix
+Barriales L
+Alexander Montana
+Scavino Erina
+Tomshack Chris
 
 ***** TESTIMONIALS CARDS JS COMMENTS *****
 // Get all testimonial sliders
@@ -196,14 +197,14 @@ Message
 Send Message
 
 ✅.contact__title ✅.contact__address
-Email (mailto:bianca123@email.com)
-  bianca123@email.com
+Email (mailto:abdurrahim.nurqowimxv@email.com)
+   abdoerrahim.noerqowimxv@gmail.com
 
 Phone number (tel:+99 1234567890)
-  +99 1234567890
+  +6285898472762
 
-Location (https://maps.app.goo.gl/DcjYxRjxrkb3DHTo9)
-  Lima - Peru, Av. District #123
+Location (https://maps.app.goo.gl/Beverly+Hills+CA+90210)
+  California - USA, CA. District 90210
 
 <!-- Insert your location in Google Maps (https://www.google.com/maps) -->
 <!-- Share -> Copy link -->
@@ -245,19 +246,20 @@ EmailJS team
 
 ========== FOOTER ==========
 ✅.footer__title
-COLLABORATE WITH BIANCA AND START YOUR 
+COLLABORATE WITH MAOELANA`S AND START YOUR 
 JOURNEY IN CREATIVE DESIGN TODAY.
 
 ✅.footer__links
 Work - Services - Skills
 
-https://www.facebook.com/bedimcode
-https://www.instagram.com/bedimcode/
+https://www.behance.net/Maooelanna8
 https://www.linkedin.com/
-https://github.com/bedimcode
+https://github.com/maooelanna
+https://twitter.com/
+https://t.me/
 
 ✅.footer__copy
-&#169; All Rights Reserved By Bedimcode
+&#169; All Rights Reserved By Maoelana`s
 
 ***** CUSTOM CURSOR JS COMMENTS *****
 // Store mouse position
